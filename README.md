@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Arhat Shah
 
-I'm a Computer Science and Mathematics student at Northeastern University, passionate about using **data science** and **machine learning** to drive business decisions and **AI-driven solutions** for growth. I also have a strong interest in **data engineering** and **quantitative finance**, leveraging statistical methods and machine learning for financial modeling.
+I'm a **Computer Science and Mathematics** student at **Northeastern University**, passionate about leveraging **data science, machine learning, and AI** to drive business growth. My interests also extend to **data engineering** and **quantitative finance**, where I explore statistical modeling and machine learning applications in financial markets.
 
 ---
 
@@ -18,17 +18,30 @@ I'm a Computer Science and Mathematics student at Northeastern University, passi
 
 ---
 
-### 🔭 Current Interests
-- **📊 Data Science & AI**: Applying machine learning to solve real-world business problems.
-- **📈 Quantitative Finance**: Exploring statistical modeling for financial markets, with experience using the **Black-Scholes model**.
-- **💾 Data Engineering**: Working with **PySpark, SQL, and AWS** to build scalable data pipelines.
+### 🔭 Interests
+- **📊 Data Science & AI**: Building ML models to solve real-world business problems.
+- **📈 Quantitative Finance**: Applying statistical methods and **Black-Scholes modeling** for financial derivatives.
+- **💾 Data Engineering**: Working with **PySpark, SQL, and AWS** to develop scalable data pipelines.
+
+---
+
+### 💼 Experience
+#### **Chewy** | *Data Engineering Intern* | Boston, MA *(Jun 2024 – Aug 2024)*
+- Migrated **70M+ rows** from **Snowflake to AWS Glue** using **PySpark** and SQL, ensuring data integrity.
+- Developed and scheduled **data pipelines** with **Apache Airflow and Control-M**.
+- Created a **data observability framework** in **PostgreSQL & Python**, improving real-time monitoring for 40+ pipelines.
+
+#### **Iris Software** | *Software Engineering Intern* | Edison, NJ *(Jul 2023 – Dec 2023)*
+- Developed a **Python-based banking app** using **Django**, leading a team of 6 interns.
+- Built a **Generative AI chatbot** using **LLM Llama 2, FAISS, and Pinecone** for document-based retrieval.
+- Designed **back-end APIs** with **Flask**, optimizing **feedback retrieval speed by 30%**.
 
 ---
 
 ### 📂 Notable Projects
-- **Nike Option Pricing Analysis**: Modeled call option prices using the **Black-Scholes model**, analyzing stock price movements and volatility.
-- **Stock Price Prediction**: Developed an **LSTM-based model** for predicting AAPL stock prices with deep learning.
-- **Brain Hemorrhage Detection**: Built **CNN-based models** for CT image classification and segmentation.
+- **Nike Option Pricing Analysis**: Used **Black-Scholes** to price call options and analyze stock volatility.
+- **Stock Price Prediction**: Built an **LSTM-based deep learning model** to forecast AAPL stock prices.
+- **Brain Hemorrhage Detection**: Developed a **CNN-based medical imaging model** for segmentation and classification.
 
 ---
 
