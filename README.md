@@ -26,10 +26,10 @@ I'm a **Computer Science and Mathematics** graduate from **Northeastern Universi
 ---
 
 ### 💼 Experience
-#### **Chewy** | *Data Engineer* | Boston, MA *(Full-Time, 2025 – Present)*
-- Own and optimize high-volume data pipelines using **PySpark, Airflow, and AWS Glue**.
-- Lead initiatives for **data observability** and **pipeline performance monitoring** across teams.
-- Architected ETL solutions supporting cross-functional analytics and financial reporting.
+#### **Chewy** | *Data Engineering Intern* | Boston, MA *(Jun 2024 – Aug 2024)*
+- Migrated **70M+ rows** from **Snowflake to AWS Glue** using **PySpark** and SQL, ensuring data integrity.Add commentMore actions
+- Developed and scheduled **data pipelines** with **Apache Airflow and Control-M**.
+- Created a **data observability framework** in **PostgreSQL & Python**, improving real-time monitoring for 40+ pipelines.
 
 #### **Iris Software** | *Software Engineering Intern* | Edison, NJ *(Jul 2023 – Dec 2023)*
 - Led development of a **Django-based banking app** with a team of 6.
