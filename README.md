@@ -1,4 +1,4 @@
-**### Hi there! 👋 I'm Arhat Shah
+### Hi there! 👋 I'm Arhat Shah
 
 I'm a **Computer Science and Mathematics** student at **Northeastern University**, passionate about leveraging **data science, machine learning, and AI** to drive business growth. My interests also extend to **data engineering** and **quantitative finance**, where I explore statistical modeling and machine learning applications in financial markets.
 
@@ -49,4 +49,5 @@ I'm a **Computer Science and Mathematics** student at **Northeastern University*
 - **GitHub**: [github.com/arhat05](https://github.com/arhat05)
 - **LinkedIn**: [linkedin.com/in/arhat-shah](https://linkedin.com/in/arhat-shah)
 - **Email**: arhat.p.shah@gmail.com
-**
+
+
