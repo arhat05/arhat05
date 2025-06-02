@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Arhat Shah
 
-I'm a **Computer Science and Mathematics** student at **Northeastern University**, passionate about leveraging **data science, machine learning, and AI** to drive business growth. My interests also extend to **data engineering** and **quantitative finance**, where I explore statistical modeling and machine learning applications in financial markets.
+I'm a **Computer Science and Mathematics** graduate from **Northeastern University**, currently working as a **Data Engineer at Chewy**. I’m passionate about using **data science, machine learning, and statistical modeling** to solve complex problems — especially in the world of **financial markets** and **quantitative finance**.
 
 ---
 
@@ -19,29 +19,29 @@ I'm a **Computer Science and Mathematics** student at **Northeastern University*
 ---
 
 ### 🔭 Interests
-- **📊 Data Science & AI**: Building ML models to solve real-world business problems.
-- **📈 Quantitative Finance**: Applying statistical methods and **Black-Scholes modeling** for financial derivatives.
-- **💾 Data Engineering**: Working with **PySpark, SQL, and AWS** to develop scalable data pipelines.
+- **📈 Quantitative Finance**: Modeling markets with **stochastic processes**, **derivatives pricing**, and **portfolio theory**.
+- **📊 Data Science & ML**: Building scalable machine learning solutions and applying them to real-world problems.
+- **💾 Data Engineering**: Working with **PySpark, SQL, and AWS** to power data-driven decisions.
 
 ---
 
 ### 💼 Experience
-#### **Chewy** | *Data Engineering Intern* | Boston, MA *(Jun 2024 – Aug 2024)*
-- Migrated **70M+ rows** from **Snowflake to AWS Glue** using **PySpark** and SQL, ensuring data integrity.
-- Developed and scheduled **data pipelines** with **Apache Airflow and Control-M**.
-- Created a **data observability framework** in **PostgreSQL & Python**, improving real-time monitoring for 40+ pipelines.
+#### **Chewy** | *Data Engineer* | Boston, MA *(Full-Time, 2025 – Present)*
+- Own and optimize high-volume data pipelines using **PySpark, Airflow, and AWS Glue**.
+- Lead initiatives for **data observability** and **pipeline performance monitoring** across teams.
+- Architected ETL solutions supporting cross-functional analytics and financial reporting.
 
 #### **Iris Software** | *Software Engineering Intern* | Edison, NJ *(Jul 2023 – Dec 2023)*
-- Developed a **Python-based banking app** using **Django**, leading a team of 6 interns.
-- Built a **Generative AI chatbot** using **LLM Llama 2, FAISS, and Pinecone** for document-based retrieval.
-- Designed **back-end APIs** with **Flask**, optimizing **feedback retrieval speed by 30%**.
+- Led development of a **Django-based banking app** with a team of 6.
+- Built a **Generative AI chatbot** with **LLMs (Llama 2), FAISS & Pinecone** for semantic search.
+- Designed and deployed APIs with **Flask**, improving latency and performance.
 
 ---
 
 ### 📂 Notable Projects
-- **Nike Option Pricing Analysis**: Used **Black-Scholes** to price call options and analyze stock volatility.
-- **Stock Price Prediction**: Built an **LSTM-based deep learning model** to forecast AAPL stock prices.
-- **Brain Hemorrhage Detection**: Developed a **CNN-based medical imaging model** for segmentation and classification.
+- **Option Pricing Analysis**: Modeled Nike options using **Black-Scholes**, including volatility surface exploration.
+- **AAPL Stock Forecasting**: Developed an **LSTM neural network** for time-series prediction on stock prices.
+- **Brain Hemorrhage Detection**: Built a **CNN segmentation model** for medical imaging diagnostics.
 
 ---
 
@@ -49,5 +49,3 @@ I'm a **Computer Science and Mathematics** student at **Northeastern University*
 - **GitHub**: [github.com/arhat05](https://github.com/arhat05)
 - **LinkedIn**: [linkedin.com/in/arhat-shah](https://linkedin.com/in/arhat-shah)
 - **Email**: arhat.p.shah@gmail.com
-
-
